@@ -1,0 +1,6 @@
+.idea/
+venv/
+__pycache__
+configure.py
+tok.py
+token.py
